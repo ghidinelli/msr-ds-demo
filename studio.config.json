@@ -3,13 +3,8 @@
     "dir": "",
     "menu": [
       "introduction",
-      [
-        "tokens",
-        [
-          "tokens"
-        ]
-      ],
-      ["components", ["button", "icon"]],
+      ["tokens", ["tokens"]],
+      ["components", ["button"]],
       ["infrastructure", ["doc-layout", "types", "sd-input"]]
     ]
   },
