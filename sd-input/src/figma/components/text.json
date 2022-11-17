@@ -6,15 +6,16 @@
           "small": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
-              "fontSize": "{font.size.400}",
+              "fontSize": "{font.size.500}",
               "lineHeight": "{font.lineHeight.tight}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "Heading"
           },
           "large": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
-              "fontSize": "{font.size.400}",
+              "fontSize": "{font.size.600}",
               "lineHeight": "{font.lineHeight.tight}"
             },
             "type": "typography"
@@ -135,6 +136,19 @@
     "display": {
       "level": {
         "100": {
+          "small": {
+            "value": {
+              "fontFamily": "{font.family.GTAmerica}",
+              "fontWeight": "",
+              "lineHeight": "{font.lineHeight.tight}",
+              "fontSize": "{font.size.800}",
+              "letterSpacing": "",
+              "paragraphSpacing": "",
+              "textDecoration": "",
+              "textCase": ""
+            },
+            "type": "typography"
+          },
           "large": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
@@ -147,41 +161,28 @@
               "textCase": ""
             },
             "type": "typography"
-          },
-          "small": {
-            "value": {
-              "fontFamily": "{font.family.GTAmerica}",
-              "fontWeight": "",
-              "lineHeight": "{font.lineHeight.tight}",
-              "fontSize": "{font.size.800}",
-              "letterSpacing": "",
-              "paragraphSpacing": "",
-              "textDecoration": "",
-              "textCase": ""
-            },
-            "type": "typography"
           }
         },
         "200": {
-          "large": {
-            "value": {
-              "fontFamily": "{font.family.GTAmerica}",
-              "fontWeight": "",
-              "lineHeight": "{font.lineHeight.tight}",
-              "fontSize": "{font.size.800}",
-              "letterSpacing": "",
-              "paragraphSpacing": "",
-              "textDecoration": "",
-              "textCase": ""
-            },
-            "type": "typography"
-          },
           "small": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
               "fontWeight": "",
               "lineHeight": "{font.lineHeight.tight}",
               "fontSize": "{font.size.700}",
+              "letterSpacing": "",
+              "paragraphSpacing": "",
+              "textDecoration": "",
+              "textCase": ""
+            },
+            "type": "typography"
+          },
+          "large": {
+            "value": {
+              "fontFamily": "{font.family.GTAmerica}",
+              "fontWeight": "",
+              "lineHeight": "{font.lineHeight.tight}",
+              "fontSize": "{font.size.800}",
               "letterSpacing": "",
               "paragraphSpacing": "",
               "textDecoration": "",
@@ -191,12 +192,12 @@
           }
         },
         "300": {
-          "large": {
+          "small": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
               "fontWeight": "",
               "lineHeight": "{font.lineHeight.tight}",
-              "fontSize": "{font.size.700}",
+              "fontSize": "{font.size.600}",
               "letterSpacing": "",
               "paragraphSpacing": "",
               "textDecoration": "",
@@ -204,12 +205,12 @@
             },
             "type": "typography"
           },
-          "small": {
+          "large": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
               "fontWeight": "",
               "lineHeight": "{font.lineHeight.tight}",
-              "fontSize": "{font.size.600}",
+              "fontSize": "{font.size.700}",
               "letterSpacing": "",
               "paragraphSpacing": "",
               "textDecoration": "",
@@ -223,6 +224,19 @@
     "lead": {
       "level": {
         "100": {
+          "small": {
+            "value": {
+              "fontFamily": "{font.family.GTAmerica}",
+              "fontWeight": "",
+              "lineHeight": "{font.lineHeight.standard}",
+              "fontSize": "{font.size.300}",
+              "letterSpacing": "",
+              "paragraphSpacing": "",
+              "textDecoration": "",
+              "textCase": ""
+            },
+            "type": "typography"
+          },
           "large": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
@@ -235,41 +249,28 @@
               "textCase": ""
             },
             "type": "typography"
-          },
-          "small": {
-            "value": {
-              "fontFamily": "{font.family.GTAmerica}",
-              "fontWeight": "",
-              "lineHeight": "{font.lineHeight.standard}",
-              "fontSize": "{font.size.300}",
-              "letterSpacing": "",
-              "paragraphSpacing": "",
-              "textDecoration": "",
-              "textCase": ""
-            },
-            "type": "typography"
           }
         },
         "200": {
-          "large": {
-            "value": {
-              "fontFamily": "{font.family.GTAmerica}",
-              "fontWeight": "",
-              "lineHeight": "{font.lineHeight.standard}",
-              "fontSize": "{font.size.300}",
-              "letterSpacing": "",
-              "paragraphSpacing": "",
-              "textDecoration": "",
-              "textCase": ""
-            },
-            "type": "typography"
-          },
           "small": {
             "value": {
               "fontFamily": "{font.family.GTAmerica}",
               "fontWeight": "",
               "lineHeight": "{font.lineHeight.standard}",
               "fontSize": "{font.size.250}",
+              "letterSpacing": "",
+              "paragraphSpacing": "",
+              "textDecoration": "",
+              "textCase": ""
+            },
+            "type": "typography"
+          },
+          "large": {
+            "value": {
+              "fontFamily": "{font.family.GTAmerica}",
+              "fontWeight": "",
+              "lineHeight": "{font.lineHeight.standard}",
+              "fontSize": "{font.size.300}",
               "letterSpacing": "",
               "paragraphSpacing": "",
               "textDecoration": "",
@@ -279,19 +280,17 @@
           }
         },
         "300": {
-          "large": {
-            "value": {
-              "fontFamily": "{font.family.GTAmerica}",
-              "fontWeight": "",
-              "lineHeight": "{font.lineHeight.standard}",
-              "fontSize": "{font.size.250}",
-              "letterSpacing": "",
-              "paragraphSpacing": "",
-              "textDecoration": "",
-              "textCase": ""
-            },
-            "type": "typography"
-          }
+          "value": {
+            "fontFamily": "{font.family.GTAmerica}",
+            "fontWeight": "",
+            "lineHeight": "{font.lineHeight.standard}",
+            "fontSize": "{font.size.250}",
+            "letterSpacing": "",
+            "paragraphSpacing": "",
+            "textDecoration": "",
+            "textCase": ""
+          },
+          "type": "typography"
         }
       }
     },
@@ -328,7 +327,20 @@
             "fontFamily": "{font.family.GTAmerica}",
             "fontWeight": "",
             "lineHeight": "{font.lineHeight.loose}",
-            "fontSize": "{font.size.base}",
+            "fontSize": "{font.size.100}",
+            "letterSpacing": "",
+            "paragraphSpacing": "",
+            "textDecoration": "",
+            "textCase": ""
+          },
+          "type": "typography"
+        },
+        "400": {
+          "value": {
+            "fontFamily": "{font.family.GTAmerica}",
+            "fontWeight": "",
+            "lineHeight": "{font.lineHeight.loose}",
+            "fontSize": "{font.size.50}",
             "letterSpacing": "",
             "paragraphSpacing": "",
             "textDecoration": "",

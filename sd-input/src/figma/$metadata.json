@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "core",
     "semantic/color",
-    "semantic/text styles",
+    "figma/text styles",
     "components/text",
     "components/button",
     "components/forms",

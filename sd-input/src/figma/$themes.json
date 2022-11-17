@@ -1,30 +1,5 @@
 [
   {
-    "id": "fb86c28da832dc6057ac9512f2ad9687345fd214",
-    "name": "Light",
-    "selectedTokenSets": {
-      "core": "enabled",
-      "testing": "disabled",
-      "components/button": "enabled",
-      "components/forms": "enabled",
-      "components/alert": "enabled",
-      "components/tooltip": "enabled",
-      "components/avatar": "enabled",
-      "components/modal": "enabled",
-      "components/logo": "enabled",
-      "components/image": "enabled",
-      "components/menu": "enabled",
-      "components/pagination": "enabled",
-      "components/datepickers": "enabled",
-      "components/filters": "enabled",
-      "components/toggles": "enabled",
-      "semantic/color": "enabled",
-      "semantic/text styles": "disabled",
-      "components/text": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "256245e7ff02a59febf77c0602b044b84a3bede0",
     "name": "Figma Styles",
     "selectedTokenSets": {
@@ -44,8 +19,8 @@
       "components/toggles": "disabled",
       "testing": "disabled",
       "semantic/color": "enabled",
-      "semantic/text styles": "enabled",
-      "components/text": "disabled"
+      "components/text": "disabled",
+      "figma/text styles": "enabled"
     },
     "$figmaStyleReferences": {
       "text.color.default": "S:b79569720138fd0e7aae634e168bac1fc2b0fa16,",
@@ -264,5 +239,30 @@
       "text.display.level.300.large": "S:995c77885f98021c7234f2bc11800c9b4e574825,",
       "text.display.level.300.small": "S:2d594d679e05d8d2405974d0564c8bd07867ec95,"
     }
+  },
+  {
+    "id": "fb86c28da832dc6057ac9512f2ad9687345fd214",
+    "name": "Light",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "testing": "disabled",
+      "components/button": "enabled",
+      "components/forms": "enabled",
+      "components/alert": "enabled",
+      "components/tooltip": "enabled",
+      "components/avatar": "enabled",
+      "components/modal": "enabled",
+      "components/logo": "enabled",
+      "components/image": "enabled",
+      "components/menu": "enabled",
+      "components/pagination": "enabled",
+      "components/datepickers": "enabled",
+      "components/filters": "enabled",
+      "components/toggles": "enabled",
+      "semantic/color": "enabled",
+      "components/text": "enabled",
+      "figma/text styles": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]

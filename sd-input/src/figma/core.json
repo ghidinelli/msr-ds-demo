@@ -46,7 +46,7 @@
   "font": {
     "size": {
       "50": {
-        "value": "roundTo({font.size.base} * 0.938, 0)",
+        "value": "{font.size.base} * 0.938",
         "type": "fontSizes",
         "description": "15px / 0.938rem"
       },
@@ -106,7 +106,7 @@
         "description": "64px / 4rem"
       },
       "base": {
-        "value": "16",
+        "value": "16px",
         "type": "fontSizes",
         "description": "Base 16px / 1 rem"
       }
