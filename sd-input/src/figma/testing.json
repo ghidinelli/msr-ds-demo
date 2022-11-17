@@ -1,7 +1,7 @@
 {
   "system": {
     "test-color": {
-      "value": "#078ce6",
+      "value": "blue",
       "type": "color"
     }
   }
