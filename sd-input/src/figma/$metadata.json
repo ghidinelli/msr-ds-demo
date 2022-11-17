@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
     "core",
-    "semantic",
+    "semantic/color",
+    "semantic/text styles",
+    "components/text",
     "components/button",
     "components/forms",
     "components/alert",

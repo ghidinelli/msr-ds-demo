@@ -46,7 +46,7 @@
   "font": {
     "size": {
       "50": {
-        "value": "{font.size.base} * 0.938",
+        "value": "roundTo({font.size.base} * 0.938, 0)",
         "type": "fontSizes",
         "description": "15px / 0.938rem"
       },
@@ -106,7 +106,7 @@
         "description": "64px / 4rem"
       },
       "base": {
-        "value": "16px",
+        "value": "16",
         "type": "fontSizes",
         "description": "Base 16px / 1 rem"
       }
@@ -133,20 +133,22 @@
         "type": "fontWeights",
         "description": "700"
       },
-      "extendedMedium": {
-        "value": "Extended Medium",
-        "type": "fontWeights",
-        "description": "500"
-      },
-      "extendedRegular": {
-        "value": "Extended Regular",
-        "type": "fontWeights",
-        "description": "400"
-      },
-      "extendedBold": {
-        "value": "Extended Bold",
-        "type": "fontWeights",
-        "description": "700"
+      "extended": {
+        "medium": {
+          "value": "Extended Medium",
+          "type": "fontWeights",
+          "description": "500"
+        },
+        "regular": {
+          "value": "Extended Regular",
+          "type": "fontWeights",
+          "description": "400"
+        },
+        "bold": {
+          "value": "Extended Bold",
+          "type": "fontWeights",
+          "description": "700"
+        }
       }
     },
     "textCase": {
