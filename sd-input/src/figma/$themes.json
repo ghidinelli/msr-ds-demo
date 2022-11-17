@@ -20,7 +20,8 @@
       "testing": "disabled",
       "semantic/color": "enabled",
       "components/text": "disabled",
-      "figma/text styles": "enabled"
+      "figma/text styles": "enabled",
+      "semantic/border": "disabled"
     },
     "$figmaStyleReferences": {
       "text.color.default": "S:b79569720138fd0e7aae634e168bac1fc2b0fa16,",
@@ -261,7 +262,8 @@
       "components/toggles": "enabled",
       "semantic/color": "enabled",
       "components/text": "enabled",
-      "figma/text styles": "disabled"
+      "figma/text styles": "disabled",
+      "semantic/border": "disabled"
     },
     "$figmaStyleReferences": {}
   }

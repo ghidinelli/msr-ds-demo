@@ -167,15 +167,6 @@
         "value": "{color.base.light}",
         "type": "color"
       }
-    },
-    "bottom": {
-      "default": {
-        "value": {
-          "borderWidthBottom": "{border.width.100}",
-          "border": "{border.color.default}"
-        },
-        "type": "composition"
-      }
     }
   }
 }
