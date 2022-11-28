@@ -263,7 +263,7 @@
       "semantic/color": "enabled",
       "components/text": "enabled",
       "figma/text styles": "disabled",
-      "semantic/border": "disabled"
+      "semantic/border": "enabled"
     },
     "$figmaStyleReferences": {}
   }
