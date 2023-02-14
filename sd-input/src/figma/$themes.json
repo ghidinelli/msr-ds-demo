@@ -4,24 +4,8 @@
     "name": "Figma Styles",
     "selectedTokenSets": {
       "core": "source",
-      "components/button": "disabled",
-      "components/forms": "disabled",
-      "components/alert": "disabled",
-      "components/tooltip": "disabled",
-      "components/avatar": "disabled",
-      "components/modal": "disabled",
-      "components/logo": "disabled",
-      "components/image": "disabled",
-      "components/menu": "disabled",
-      "components/pagination": "disabled",
-      "components/datepickers": "disabled",
-      "components/filters": "disabled",
-      "components/toggles": "disabled",
-      "testing": "disabled",
       "semantic/color": "enabled",
-      "components/text": "disabled",
-      "figma/text styles": "enabled",
-      "semantic/border": "disabled"
+      "figma/text styles": "enabled"
     },
     "$figmaStyleReferences": {
       "text.color.default": "S:b79569720138fd0e7aae634e168bac1fc2b0fa16,",
@@ -246,7 +230,6 @@
     "name": "Light",
     "selectedTokenSets": {
       "core": "enabled",
-      "testing": "disabled",
       "components/button": "enabled",
       "components/forms": "enabled",
       "components/alert": "enabled",
@@ -262,7 +245,6 @@
       "components/toggles": "enabled",
       "semantic/color": "enabled",
       "components/text": "enabled",
-      "figma/text styles": "disabled",
       "semantic/border": "enabled"
     },
     "$figmaStyleReferences": {}
