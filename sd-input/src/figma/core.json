@@ -208,8 +208,7 @@
       },
       "400": {
         "value": "#C8CACB",
-        "type": "color",
-        "description": "Input outlines"
+        "type": "color"
       },
       "500": {
         "value": "#B1B5B9",
@@ -217,8 +216,7 @@
       },
       "600": {
         "value": "#8E949A",
-        "type": "color",
-        "description": "Placeholder text"
+        "type": "color"
       },
       "700": {
         "value": "#6F757C",
@@ -230,8 +228,7 @@
       },
       "900": {
         "value": "#484C51",
-        "type": "color",
-        "description": "Secondary text"
+        "type": "color"
       }
     },
     "gradient": {
